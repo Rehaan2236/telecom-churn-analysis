@@ -84,6 +84,6 @@ jupyter notebook churn_analysis.ipynb
 
 ## 📬 Contact
 
-**[Your Name]** — [LinkedIn](https://linkedin.com/in/yourprofile) · [Portfolio](https://yoursite.com)
+**Rehaan Bahadur** — [LinkedIn](https://www.linkedin.com/in/rehaan-bahadur-60438b359/) · [Portfolio](https://yoursite.com)
 
 *Feel free to open an issue or reach out with questions or feedback!*
